@@ -1,0 +1,3 @@
+{"posts":[{"id":"my_first_postie","title":"My first post","content":"Hello!"},
+    {"id":"learn_nodejs","title":"노드 배우기","content":"JSON으로 데이터를 관리해 볼까요?"},
+    {"id":"hello","title":"hello","content":"mycontent"}]}
